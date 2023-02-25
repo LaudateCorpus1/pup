@@ -8,7 +8,7 @@ github.com/mattn/go-isatty
 golang.org/x/net/html
 golang.org/x/net/html/atom
 golang.org/x/net/html/charset
-# golang.org/x/sys v0.0.0-20160717071931-a646d33e2ee3
+# golang.org/x/sys v0.1.0
 golang.org/x/sys/unix
 # golang.org/x/text v0.0.0-20160719205907-0a5a09ee4409
 golang.org/x/text/encoding
